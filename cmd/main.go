@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"git.garena.com/shopee/loan-service/credit_backend/credit_framework/go_tls/g"
+	"go-framework/go_tls/g"
 	"sync"
 )
 
