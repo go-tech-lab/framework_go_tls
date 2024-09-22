@@ -1,7 +1,7 @@
 package tls
 
 import (
-	"git.garena.com/shopee/loan-service/credit_backend/credit_framework/go_tls/g"
+	"github.com/go-tech-lab/framework_go_tls/g"
 	"io"
 	"sync"
 	"sync/atomic"

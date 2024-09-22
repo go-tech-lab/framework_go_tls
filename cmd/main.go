@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-framework/go_tls/g"
+	"github.com/go-tech-lab/framework_go_tls/g"
 	"sync"
 )
 
