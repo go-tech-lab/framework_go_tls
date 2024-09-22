@@ -45,5 +45,3 @@ func MakeData(data interface{}) Data {
 
 	return d
 }
-
-//just check
